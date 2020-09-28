@@ -1,6 +1,6 @@
 # Dotfiles
 
-These are my dotfiles configuration to vim, zsh, tmux.
+These are my dotfiles configuration to vim, tmux.
 
 # Installation
 
@@ -13,4 +13,4 @@ $ ln -s dot-file/tmux.conf ~/.tmux.conf
 
 # Screenshot
 
-![screenshot](https://github.com/kevinyu0506/dot-file/img/blob/master/screenshot.png?raw=true)
+![screenshot](https://github.com/kevinyu0506/dot-file/blob/master/img/screenshot.png?raw=true)
