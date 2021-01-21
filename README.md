@@ -1,13 +1,23 @@
 # Dotfiles
 
-These are my dotfiles configuration for vim, tmux.
+These are my configuration file for zsh, homebrew, vim, tmux, karabiner.
 
-# Installation
+## Installation
 
-Clone this repo
+### Clone this repo
 ```
 $ cd ~
 $ git clone https://github.com/kevinyu0506/dot-file.git
+```
+
+### Homebrew
+```
+$ ln -s ~/dot-file/Brewfile ~/Brewfile
+$ brew bundle install
+```
+
+### Vim & tmux
+```
 $ ln -s ~/dot-file/vimrc ~/.vimrc
 $ ln -s ~/dot-file/tmux.conf ~/.tmux.conf
 ```
