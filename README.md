@@ -1,6 +1,6 @@
 # Dotfiles
 
-These are my configuration file for zsh, homebrew, vim, tmux, karabiner.
+Config file for zsh, homebrew, vim, tmux, karabiner.
 
 ## Installation
 
